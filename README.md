@@ -1,1 +1,1 @@
-# flask_app
+# flask-todo-app
